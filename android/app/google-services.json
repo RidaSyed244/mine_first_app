@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308930540007",
+    "project_id": "mine-first-app-de7b2",
+    "storage_bucket": "mine-first-app-de7b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308930540007:android:12e626bac3d5afb8b98d42",
+        "android_client_info": {
+          "package_name": "com.ridaSyed.mine_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308930540007-694g04hvcennuqddf4p0t0crbv4itot4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zk7Yd8X4XzVcVTmtuRGoVWn8kflWRzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308930540007-694g04hvcennuqddf4p0t0crbv4itot4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
